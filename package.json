@@ -1,0 +1,25 @@
+{
+  "name": "startup-page",
+  "version": "1.0.0",
+  "description": "personal startup page for chrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matan157/startup-page.git"
+  },
+  "author": "Matan Uchen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matan157/startup-page/issues"
+  },
+  "homepage": "https://github.com/matan157/startup-page#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "jquery": "^2.2.4"
+  }
+}
